@@ -21,7 +21,7 @@ export function getPythonPath(): string {
   }
   
   // Fallback to system Python
-  return 'python3';
+  return '';
 }
 
 /**

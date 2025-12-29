@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RevTrack - Amazon Product Analyzer
 
 RevTrack is a comprehensive Next.js application that analyzes Amazon products by scraping product details, prices, reviews, and provides intelligent insights to help users make informed purchasing decisions.
@@ -225,3 +226,7 @@ If you encounter any issues or have questions, please:
 ---
 
 **Made with ❤️ using Next.js and Python**
+=======
+# RevTrack_Project
+Developed an innovative platform named RevTrack to enhance the online shopping experience.  The project addressed information overload in e-commerce by transforming raw, unstructured data into  actionable consumer insights, enabling shoppers to make informed and seamless purchasing decisions.
+>>>>>>> 432a3b338a96855972c153a9b82b0a67d2aaf6cc
